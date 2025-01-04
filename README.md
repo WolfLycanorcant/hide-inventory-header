@@ -26,3 +26,5 @@ Game systems where currency is not used or relevant, or if using custom currency
 Modules that aim to simplify or customize the appearance of item sheets.
 
 Developers looking to hide specific elements in Foundry VTT without editing core templates.
+
+🐺
