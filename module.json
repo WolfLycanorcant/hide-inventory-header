@@ -1,0 +1,20 @@
+{
+  "id": "hide-inventory-header",
+  "title": "Hide Inventory Header",
+  "description": "Hides the inventory header flexrow element in the inventory tab.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Master Wolf",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "minimumCoreVersion": "12",
+  "compatibleCoreVersion": "12",
+  "esmodules": ["scripts/hide-inventory-header.js"],
+  "styles": [],
+  "packs": [],
+  "readme": "README.md",
+  "license": "LICENSE.md"
+}
