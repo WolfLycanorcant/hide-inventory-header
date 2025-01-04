@@ -3,7 +3,7 @@ Script Description: Hide Currency Row in Item Sheets: This addon modifies the di
 
 Hide Currency Row in Item Sheets
 
-This script is designed for use in Foundry Virtual Tabletop (Foundry VTT) to hide the currency row within item sheets. It provides a simple customization that can help streamline item sheet layouts by removing unnecessary currency information.
+This addon is designed for use in Foundry Virtual Tabletop (Foundry VTT) to hide the currency row within item sheets. It provides a simple customization that can help streamline item sheet layouts by removing unnecessary currency information.
 
 Features
 
